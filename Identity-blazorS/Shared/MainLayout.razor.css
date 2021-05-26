@@ -1,3 +1,18 @@
+
+.navbar {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a.navbar-brand {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
 .page {
     position: relative;
     display: flex;
